@@ -1,8 +1,8 @@
 # SnakeGame
-Introduction
+Introduction: 
 This project is a simple implementation of the classic Snake Game using Java. It provides a fun and interactive way to play the game directly from your console.
 
-Features
+Features:
 Simple and intuitive gameplay.
 Control the snake using arrow keys.
 The snake grows longer as it eats food.
